@@ -30,7 +30,6 @@
 	<a href="https://github.com" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
@@ -41,7 +40,6 @@
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="unix" width="40" height="40" />
@@ -52,7 +50,6 @@
 	<a href="https://www.fedora.org/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="unix" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
@@ -63,7 +60,6 @@
 	<a href="https://redis.io" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://spring.io/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
@@ -71,7 +67,6 @@
 	<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -82,7 +77,6 @@
 	<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
 	</a>
-	<br>
 	
 	<a href="https://jenkins.io/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
