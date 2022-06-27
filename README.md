@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi There
 
-<p align="center">
+<p>
     <a title="Github Total Stars" target="_blank" href="https://github.com/athlonreg">
         <img src="https://img.shields.io/github/stars/athlonreg.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
