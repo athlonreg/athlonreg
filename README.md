@@ -69,11 +69,11 @@
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 	</a>
-	<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" />
-	</a>
 	<a href="https://k3s.io/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" alt="k3s" width="40" height="40" />
+	</a>
+	<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" />
 	</a>
 </div>
 
